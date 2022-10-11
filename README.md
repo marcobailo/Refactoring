@@ -44,7 +44,7 @@ Follow the SOLID principles and refactor the entire code base and change the arc
 
 ## Share your solutions
 
-Share your solutions via zip and or any other means of sharing.
+Share your solutions via PR or any other means of sharing.
 
 ## Some hints
 Please ensure that you are familiar with our values in the instructions project.  They are important to us.
