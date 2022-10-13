@@ -48,6 +48,7 @@
     <Compile Include="TirePressureMonitoringSystem.Tests\NUnitTestPressure.cs" />
     <Compile Include="TirePressureMonitoringSystem\Alarm.cs" />
     <Compile Include="TirePressureMonitoringSystem\Sensor.cs" />
+    <Compile Include="TurnTicketDispenser.Tests\NUnitTicketDispenser.cs" />
     <Compile Include="TurnTicketDispenser\TicketDispenser.cs" />
     <Compile Include="TurnTicketDispenser\TurnNumberSequence.cs" />
     <Compile Include="TurnTicketDispenser\TurnTicket.cs" />

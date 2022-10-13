@@ -1,4 +1,6 @@
-﻿using System;
+﻿// old source code
+/*
+using System;
 namespace TDDMicroExercises.TurnTicketDispenser.SomeDependencies
 {
     public class TurnNumberSequenceClient
@@ -15,3 +17,4 @@ namespace TDDMicroExercises.TurnTicketDispenser.SomeDependencies
 		}
     }
 }
+*/

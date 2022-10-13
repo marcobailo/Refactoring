@@ -1,4 +1,6 @@
-﻿namespace TDDMicroExercises.TurnTicketDispenser.SomeDependencies
+﻿// old source code
+/*
+namespace TDDMicroExercises.TurnTicketDispenser.SomeDependencies
 {
     public class TurnTicketClient
     {
@@ -17,3 +19,4 @@
 		}
     }
 }
+*/
