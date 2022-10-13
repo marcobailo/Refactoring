@@ -1,4 +1,6 @@
-﻿using System;
+﻿// old source code
+/*
+using System;
 namespace TDDMicroExercises.TirePressureMonitoringSystem.SomeDependencies
 {
     public class AnAlarmClient1
@@ -14,3 +16,4 @@ namespace TDDMicroExercises.TirePressureMonitoringSystem.SomeDependencies
         }
     }
 }
+*/

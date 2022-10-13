@@ -45,6 +45,7 @@
     <Compile Include="TelemetrySystem\TelemetryClient.cs" />
     <Compile Include="TelemetrySystem.Tests\TelemetryDiagnosticControlsTest.cs" />
     <Compile Include="TelemetrySystem\TelemetryDiagnosticControls.cs" />
+    <Compile Include="TirePressureMonitoringSystem.Tests\NUnitTestPressure.cs" />
     <Compile Include="TirePressureMonitoringSystem\Alarm.cs" />
     <Compile Include="TirePressureMonitoringSystem\Sensor.cs" />
     <Compile Include="TurnTicketDispenser\TicketDispenser.cs" />
@@ -67,12 +68,7 @@
     <Compile Include="TelemetrySystem.SomeDependencies\TelemetryDiagnosticControlsClient2.cs" />
     <Compile Include="TelemetrySystem.SomeDependencies\TelemetryDiagnosticControlsClient3.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="TirePressureMonitoringSystem.SomeDependencies\" />
-    <Folder Include="UnicodeFileToHtmlTextConverter.SomeDependencies\" />
-    <Folder Include="TurnTicketDispenser.SomeDependencies\" />
-    <Folder Include="TelemetrySystem.SomeDependencies\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="lib\nunit.framework.dll" />
     <None Include="lib\nunit.framework.xml" />
