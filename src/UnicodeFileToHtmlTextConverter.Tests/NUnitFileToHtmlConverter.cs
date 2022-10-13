@@ -67,7 +67,7 @@ namespace TDDMicroExercises.UnicodeFileToHtmlTextConverter.Tests
         {
             _converterFromPlanTextToHtml = new ByteArrayToHtmlTextConverter(File.ReadAllBytes(_path + _planFileName));
             string _htmlContent = _converterFromPlanTextToHtml.ConvertToHtml("File title...");
-            Debug.WriteLine("String converted into html:");
+            Debug.WriteLine("Byte array converted into html:");
             Debug.WriteLine(_htmlContent);
             Assert.IsTrue(_htmlContent != string.Empty);
         }
